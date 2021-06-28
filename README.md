@@ -8,3 +8,5 @@ A Raspberry Pi was used along with a thermistor to take temperature readings in 
 # Project Poster and AWS structure
 ![Project Poster](https://raw.githubusercontent.com/deyansp/AWS-IoT-Temperature-Sensor/main/project-poster.png)
 
+![AWS Diagram](https://raw.githubusercontent.com/deyansp/AWS-IoT-Temperature-Sensor/main/AWS%20Structure%20Diagram.PNG)
+
